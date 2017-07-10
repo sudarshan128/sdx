@@ -1,0 +1,92 @@
+[
+    [
+        "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1498887688525,
+            "changeTime": 1498887688525,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1498887688525,
+            "changeTime": 1498887688525,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1498887996033,
+            "changeTime": 1498887996033,
+            "contentHash": "ad205dbc98702917c992bdabe5ea463b419769e7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1498887688526,
+            "changeTime": 1498887688526,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main\\default\\README.md",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1\\force-app\\main\\default\\README.md",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 107,
+            "modifiedTime": 1498887688537,
+            "changeTime": 1498887996033,
+            "contentHash": "eaec107213fd05abb4a07b12ec71a88fe378e5c5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\sudarshan\\Application Data\\Salesforce IDE\\workspace\\SFDXLear1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1499232427828,
+            "changeTime": 1499232427828,
+            "contentHash": "a64b39551318120ff6b50e7799c465283f78924f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
